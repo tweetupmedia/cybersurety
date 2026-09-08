@@ -1,0 +1,6 @@
+{
+  "name": "CyberSurety",
+  "description": "Enterprise cybersecurity, compliance, and risk management SaaS platform for continuous threat monitoring, automated mitigation, and GRC orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
